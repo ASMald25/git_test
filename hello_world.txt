@@ -1,1 +1,2 @@
 This is text to practice staging modification.
+additional modification to practice commit comments
