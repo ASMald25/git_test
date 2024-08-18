@@ -1,1 +1,2 @@
 I'm starting to learn git well.
+I'm adding this line to test if my git recognizes nvim for comments.
